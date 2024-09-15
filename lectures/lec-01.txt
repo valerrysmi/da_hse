@@ -1,1 +1,23 @@
+Лекция 1
+2024/09/03
 
+DA != ML
+  DA - про обогащение знаний
+  ML - про адаптацию к информации
+
+What is DATA?
+  - Table
+  - Signal
+  - Text
+  - Sequence
+  - Map
+  - Image
+  - Video
+  - Multiple source
+
+Самая популярная таблица данных - Ирисы
+
+Проблемы, которые можно изучать на ирисах:
+  - Visualise data
+  - Build a predictor of sepal sizes from the petal sizes
+  - Build a predictor of taxa (classifier)
